@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @herbertamakloe
-- 👀 I’m interested in ReactJS, Vanilla JavaScript, HTML, CSS
+- 👀 I’m interested in ReactJS, NodeJS, ExpressJS, Vanilla JavaScript, HTML, CSS
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on React and Java related projects
 - 📫 How to reach me herbertamakloe@outlook.com
